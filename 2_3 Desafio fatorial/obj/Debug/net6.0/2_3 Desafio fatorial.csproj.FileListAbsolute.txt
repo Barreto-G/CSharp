@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\bin\Debug\net6.0\2_3 Desafio fatorial.exe
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\bin\Debug\net6.0\2_3 Desafio fatorial.deps.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\bin\Debug\net6.0\2_3 Desafio fatorial.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\bin\Debug\net6.0\2_3 Desafio fatorial.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\bin\Debug\net6.0\2_3 Desafio fatorial.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\refint\2_3 Desafio fatorial.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\2_3 Desafio fatorial.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_3 Desafio fatorial\obj\Debug\net6.0\ref\2_3 Desafio fatorial.dll

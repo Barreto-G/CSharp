@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\bin\Debug\net6.0\Extra_StringsERegex.exe
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\bin\Debug\net6.0\Extra_StringsERegex.deps.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\bin\Debug\net6.0\Extra_StringsERegex.runtimeconfig.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\bin\Debug\net6.0\Extra_StringsERegex.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\bin\Debug\net6.0\Extra_StringsERegex.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\refint\Extra_StringsERegex.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\Extra_StringsERegex.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_StringsERegex\obj\Debug\net6.0\ref\Extra_StringsERegex.dll

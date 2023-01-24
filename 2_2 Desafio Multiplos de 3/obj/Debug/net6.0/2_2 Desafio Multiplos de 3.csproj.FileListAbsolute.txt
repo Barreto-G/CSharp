@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\bin\Debug\net6.0\2_2 Desafio Multiplos de 3.exe
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\bin\Debug\net6.0\2_2 Desafio Multiplos de 3.deps.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\bin\Debug\net6.0\2_2 Desafio Multiplos de 3.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\bin\Debug\net6.0\2_2 Desafio Multiplos de 3.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\bin\Debug\net6.0\2_2 Desafio Multiplos de 3.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\refint\2_2 Desafio Multiplos de 3.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\2_2 Desafio Multiplos de 3.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_2 Desafio Multiplos de 3\obj\Debug\net6.0\ref\2_2 Desafio Multiplos de 3.dll

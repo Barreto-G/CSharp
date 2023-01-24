@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\bin\Debug\net6.0\5_Excecoes.exe
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\bin\Debug\net6.0\5_Excecoes.deps.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\bin\Debug\net6.0\5_Excecoes.runtimeconfig.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\bin\Debug\net6.0\5_Excecoes.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\bin\Debug\net6.0\5_Excecoes.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\refint\5_Excecoes.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\5_Excecoes.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\5_Exececoes\obj\Debug\net6.0\ref\5_Excecoes.dll

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\bin\Debug\net6.0\2_1_Desafio.exe
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\bin\Debug\net6.0\2_1_Desafio.deps.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\bin\Debug\net6.0\2_1_Desafio.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\bin\Debug\net6.0\2_1_Desafio.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\bin\Debug\net6.0\2_1_Desafio.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\refint\2_1_Desafio.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\2_1_Desafio.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_1_Desafio\obj\Debug\net6.0\ref\2_1_Desafio.dll

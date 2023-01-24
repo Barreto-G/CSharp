@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\bin\Debug\net6.0\Extra_Regex.exe
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\bin\Debug\net6.0\Extra_Regex.deps.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\bin\Debug\net6.0\Extra_Regex.runtimeconfig.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\bin\Debug\net6.0\Extra_Regex.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\bin\Debug\net6.0\Extra_Regex.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\refint\Extra_Regex.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\Extra_Regex.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\Extra_Regex\obj\Debug\net6.0\ref\Extra_Regex.dll

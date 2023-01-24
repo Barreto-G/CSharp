@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\bin\Debug\net6.0\4_Heranca_e_Sobrecarga.exe
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\bin\Debug\net6.0\4_Heranca_e_Sobrecarga.deps.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\bin\Debug\net6.0\4_Heranca_e_Sobrecarga.runtimeconfig.json
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\bin\Debug\net6.0\4_Heranca_e_Sobrecarga.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\bin\Debug\net6.0\4_Heranca_e_Sobrecarga.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\refint\4_Heranca_e_Sobrecarga.dll
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.pdb
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\4_Heranca_e_Sobrecarga.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Estudo\CSharp\4_Heranca_e_Sobrecarga\obj\Debug\net6.0\ref\4_Heranca_e_Sobrecarga.dll

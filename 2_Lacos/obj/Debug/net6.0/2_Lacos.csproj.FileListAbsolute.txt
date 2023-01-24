@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\bin\Debug\net6.0\2_Lacos.exe
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\bin\Debug\net6.0\2_Lacos.deps.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\bin\Debug\net6.0\2_Lacos.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\bin\Debug\net6.0\2_Lacos.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\bin\Debug\net6.0\2_Lacos.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\refint\2_Lacos.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\2_Lacos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo\CSharp\2_Lacos\obj\Debug\net6.0\ref\2_Lacos.dll
