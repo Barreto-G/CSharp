@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_Lacos\\2_Lacos.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_Lacos\\2_Lacos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_Lacos\\2_Lacos.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_Lacos\\2_Lacos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_Lacos\\2_Lacos.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_Lacos\\2_Lacos.csproj",
         "projectName": "2_Lacos",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_Lacos\\2_Lacos.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_Lacos\\2_Lacos.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_Lacos\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_Lacos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

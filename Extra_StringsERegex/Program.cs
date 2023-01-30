@@ -23,7 +23,7 @@ string carta_de_convite = $"Prezado sr/sra.{nomeAluno}\n" +
                         $"Prof. {nomeProfessor} " +
                         $"Diretor(a)."; 
 //A interpolacao de String tbm pode ser usada para inserir variaveis dentro de uma string de forma a deixar mais legivel
-//Basta colocar a variavel que quisermos entre colchetes {var} e pronto
+//Basta colocar o cifrao no comeco da string e a variavel que quisermos entre colchetes {var} e pronto
 //Outro recurso interessante eh utilizar $ para podermos escrever em linhas abaixo sem que haja quebra de linha propriamente dita na string
 //Podemos utilizar o \n para a quebra de linha dentro de uma string
 Console.WriteLine(carta_de_convite);

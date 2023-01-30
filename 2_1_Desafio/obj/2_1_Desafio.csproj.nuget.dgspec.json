@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj",
         "projectName": "2_1_Desafio",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_1_Desafio\\2_1_Desafio.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\2_1_Desafio\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\2_1_Desafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

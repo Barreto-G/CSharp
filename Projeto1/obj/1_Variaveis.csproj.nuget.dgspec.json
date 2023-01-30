@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\Projeto1\\1_Variaveis.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Projeto1\\1_Variaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\Projeto1\\1_Variaveis.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Projeto1\\1_Variaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\Projeto1\\1_Variaveis.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Projeto1\\1_Variaveis.csproj",
         "projectName": "1_Variaveis",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\Projeto1\\1_Variaveis.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Projeto1\\1_Variaveis.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\Projeto1\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Projeto1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

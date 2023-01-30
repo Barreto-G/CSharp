@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\5_Exececoes\\5_Excecoes.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\5_Exececoes\\5_Excecoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\5_Exececoes\\5_Excecoes.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\5_Exececoes\\5_Excecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\5_Exececoes\\5_Excecoes.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\5_Exececoes\\5_Excecoes.csproj",
         "projectName": "5_Excecoes",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\5_Exececoes\\5_Excecoes.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\5_Exececoes\\5_Excecoes.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Estudo\\CSharp\\5_Exececoes\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\5_Exececoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

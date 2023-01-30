@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extra_Strings", "Extra_Stri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extra_Regex", "Extra_Regex\Extra_Regex.csproj", "{CE1CE132-8366-4C97-93DD-7F39574DC70A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Excecoes", "5_Exececoes\5_Excecoes.csproj", "{F2479C33-79CA-4A1A-8C6B-A44651D6C99C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Excecoes", "5_Exececoes\5_Excecoes.csproj", "{F2479C33-79CA-4A1A-8C6B-A44651D6C99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_ClasseArray", "6_ClasseArray\6_ClasseArray.csproj", "{45FA9BD4-A348-4864-9669-E6F1A6F9DDD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{F2479C33-79CA-4A1A-8C6B-A44651D6C99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2479C33-79CA-4A1A-8C6B-A44651D6C99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2479C33-79CA-4A1A-8C6B-A44651D6C99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FA9BD4-A348-4864-9669-E6F1A6F9DDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FA9BD4-A348-4864-9669-E6F1A6F9DDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FA9BD4-A348-4864-9669-E6F1A6F9DDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FA9BD4-A348-4864-9669-E6F1A6F9DDD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
