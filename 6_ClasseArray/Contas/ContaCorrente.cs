@@ -7,7 +7,7 @@ using _3_OrientacaoAObjetos.Titular;    //Esse eh como se fosse o include, todos
 
 namespace _3_OrientacaoAObjetos.Contas
 {
-    public class ContaCorrente
+    public class ContaCorrente : IComparable<ContaCorrente> //Permite implementarmos a comparacao entre os objetos da classe ContaCorrente
     {
         public static int NumContasCriadas; //Adicionando uma propriedade estatica, que pertence a classe e nao a cada objeto criado
                                             //Assim, nao usamos o this ao referenciar uma propriedade estatica dentro de uma classe 
@@ -29,6 +29,21 @@ namespace _3_OrientacaoAObjetos.Contas
         public Cliente Titular { get; private set; }
 
         public double Saldo { get; private set; }
+
+        public int CompareTo(ContaCorrente? other)  //Esse eh o metodo que permite que os objetos da classe possam ser comparados entre si
+        {                                           //A interrogacao quer dizer que o parametro pode receber um objeto nulo
+            if(other == null)
+            {
+                return 1;
+            }
+            else
+            {
+                return this.Num_agencia.CompareTo(other.Num_agencia); //Implementamos a comparacao entre os valores da agencia, para que seja ordenado em relacao a ela
+            }                                                         //O compareTo apos o num_Agencia na vdd eh o metodo da classe int, que usamos como parametro para comparacao das contas
+        }   
+        /*A comparacao funciona da seguinte forma: retorno<0 quer dizer que esse objeto precede o parametro passado,
+                                                   >0 quer dizer que esse objeto antecede o parametro, 
+                                                   e 0 quer dizer que os dois objetos sao iguais*/
 
         public void deposito(double valor)
         { Saldo += valor; }
@@ -57,19 +72,16 @@ namespace _3_OrientacaoAObjetos.Contas
             }
         }
 
-        /*public void SetSaldo(double valor)
+        public override string ToString()   //Aqui, sobrescrevemos o metodo toString da classe base Object para que, quando o utilizemos, imprima todas as informacoes dessa conta
         {
-            if (valor < 0) 
-                { return; }
-            else 
-                { this.saldo= valor; }
+            return $" === DADOS DA CONTA === \n" +
+                    $"Número da Conta : {this.Conta} \n" +
+                    $"Número da Agência : {this.Num_agencia} \n" +
+                    $"Saldo da Conta: {this.Saldo} \n" +
+                    $"Titular da Conta: {this.Titular.Nome} \n" +
+                    $"CPF do Titular  : {this.Titular.Cpf} \n" +
+                    $"Profissão do Titular: {this.Titular.Profissao}\n\n";
         }
-
-        public double GetSaldo()
-        {
-            return this.saldo;
-        }*/
-
 
 
 
