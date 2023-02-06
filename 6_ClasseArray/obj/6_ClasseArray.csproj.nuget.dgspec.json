@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj": {}
+    "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj": {
+    "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj",
         "projectName": "6_ClasseArray",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\6_ClasseArray\\6_ClasseArray.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\6_ClasseArray\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\6_ClasseArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

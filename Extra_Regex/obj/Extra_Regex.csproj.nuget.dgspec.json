@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj": {}
+    "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj": {
+    "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj",
         "projectName": "Extra_Regex",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_Regex\\Extra_Regex.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_Regex\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_Regex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

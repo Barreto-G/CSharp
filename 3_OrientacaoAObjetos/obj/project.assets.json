@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\3_OrientacaoAObjetos\\3_OrientacaoAObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\3_OrientacaoAObjetos\\3_OrientacaoAObjetos.csproj",
       "projectName": "3_OrientacaoAObjetos",
-      "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\3_OrientacaoAObjetos\\3_OrientacaoAObjetos.csproj",
+      "projectPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\3_OrientacaoAObjetos\\3_OrientacaoAObjetos.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\3_OrientacaoAObjetos\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\3_OrientacaoAObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

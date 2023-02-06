@@ -1,0 +1,15 @@
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\bin\Debug\net6.0\7_Arquivos.exe
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\bin\Debug\net6.0\7_Arquivos.deps.json
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\bin\Debug\net6.0\7_Arquivos.runtimeconfig.json
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\bin\Debug\net6.0\7_Arquivos.dll
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\bin\Debug\net6.0\7_Arquivos.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.AssemblyInfo.cs
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.dll
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\refint\7_Arquivos.dll
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\7_Arquivos.genruntimeconfig.cache
+C:\Users\Gabriel\OneDrive\Documentos\Programacao\CSharp\7_Arquivos\obj\Debug\net6.0\ref\7_Arquivos.dll

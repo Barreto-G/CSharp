@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj": {}
+    "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj": {
+    "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj",
         "projectName": "4_Heranca_e_Sobrecarga",
-        "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\4_Heranca_e_Sobrecarga.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\4_Heranca_e_Sobrecarga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

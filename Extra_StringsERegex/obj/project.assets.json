@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_StringsERegex\\Extra_Strings.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_StringsERegex\\Extra_Strings.csproj",
       "projectName": "Extra_Strings",
-      "projectPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_StringsERegex\\Extra_Strings.csproj",
+      "projectPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_StringsERegex\\Extra_Strings.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Documents\\Programacao\\CSharp\\Extra_StringsERegex\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\OneDrive\\Documentos\\Programacao\\CSharp\\Extra_StringsERegex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
