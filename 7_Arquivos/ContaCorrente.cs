@@ -43,5 +43,11 @@ namespace ByteBankIO
 
             Saldo += valor;
         }
+
+        public override string ToString()
+        {
+            return $"Conta numero: {this.Numero}, Agencia: {this.Agencia}, Titular: {this.Titular.Nome} ,com saldo de {this.Saldo} reais";
+        }
+
     }
 }
